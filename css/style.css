@@ -8450,8 +8450,7 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-    color: orangered;
-    text-decoration: underline; }
+    color: orangered; }
 
 .slider-text p {
   font-size: 20px;
@@ -9809,7 +9808,7 @@ textarea.form-control {
 }
 
 .active {
-  background-color:rgba(255, 199, 227, 0.2);
+  background-color:rgba(255, 184, 218, .3);
   color:white;
 }
 
