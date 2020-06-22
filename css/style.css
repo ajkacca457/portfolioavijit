@@ -9874,3 +9874,41 @@ i {
 
 
 }
+
+#gitlink {
+  background-color: #485461;
+background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+}
+
+#gitlink h1 {
+  font-weight: 600;
+  margin-bottom: 1%;
+  color:white;
+}
+
+
+#github {
+background-color:#3e64ff;
+width:10%;
+border-radius: 20px;
+border: none;
+height:6vh;
+color:white;
+transition: all .4s ease;
+}
+
+#github:hover {
+  background-color: orange;
+}
+#github:focus {
+outline: none;
+}
+
+#github a {
+color:white;
+}
+
+#code {
+  width: 60px;
+  height: 60px;
+}
