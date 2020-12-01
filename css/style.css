@@ -9777,7 +9777,7 @@ textarea.form-control {
 }
 
 .gcont img {
-  width:100%;
+  width: 100%;
 }
 
 .gcont {
@@ -9829,6 +9829,11 @@ i {
 
 .picon:hover {
   transform: scale(1.2);
+}
+
+
+.imgd2 {
+  height: 200px;
 }
 
 @media only screen and (max-width: 500px) {
