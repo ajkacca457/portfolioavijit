@@ -6,7 +6,7 @@ My name is <b> Avijit Karmaker</b>. I live in Finland. I am currently working on
 
 ## Website
 
-[![Avijit Karmaker](https://avijitkarmaker.netlify.app/index.html)
+[Avijit Karmaker](https://avijitkarmaker.netlify.app/index.html)
 
 ## Programming Skills
 <div>
