@@ -143,8 +143,8 @@
     });
   });
 
-})(jQuery);
+  sal({
+    once:false
+  });
 
-sal({
-  once:false
-});
+})(jQuery);
