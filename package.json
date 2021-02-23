@@ -1,0 +1,23 @@
+{
+  "name": "portfolioavijit",
+  "version": "1.0.0",
+  "description": "<img src=\"images/ngu-1.jpg\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajkacca457/portfolioavijit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajkacca457/portfolioavijit/issues"
+  },
+  "homepage": "https://github.com/ajkacca457/portfolioavijit#readme",
+  "dependencies": {
+    "sal.js": "^0.8.4"
+  }
+}
